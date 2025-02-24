@@ -14,8 +14,8 @@ class DocManPicker {
   /// This is optional, must be a valid string representation of `tree Uri` - directory uri.
   ///
   /// Returns a [DocumentFile] representing the picked directory.
-  Future<DocumentFile?> directory({String? initDir}) =>
-      Picker(type: PickType.directory, initDir: initDir).directory();
+  Future<DocumentFile?> directory({String? initDir, bool grantPermissions = false}) =>
+      Picker(type: PickType.directory, grantPermissions: grantPermissions, initDir: initDir).directory();
 
   /// Pick document(s).
   ///
