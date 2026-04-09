@@ -1128,3 +1128,153 @@ like to change.
 > the [**`MIT License`**](./LICENSE).
 
 🙏 **Thank you!**
+
+---
+
+## 📜 The Ballad of DocMan
+
+**A Journey Through Files and Directories**
+
+### Canto I: The Beginning
+
+In the realm of Android, where storage lay deep,
+Where permissions and access were secrets to keep,
+There came a great plugin, a tool of design,
+To manage the files in a manner divine.
+
+DocMan was born from a need that ran true,
+To simplify tasks that were complex to do,
+With Storage Access Framework at its core,
+It opened the gateway to knowledge and more.
+
+O weary developer, tired and worn,
+From struggles with SAF from dusk until morn,
+No more shall you battle with cryptic code paths,
+No more shall you suffer the Storage Framework's wrath.
+
+For DocMan arrives like a light in the dark,
+To handle your files and to leave its mark,
+With picker so simple, with operations so clean,
+The finest of tools you have ever seen.
+
+From Android five upward, it stands mighty and tall,
+A guardian of directories, answering the call,
+No manifest permissions required from your hand,
+A permission-managed, secure helping hand.
+
+### Canto II: The Features Unfold
+
+What wonders await in this plugin so grand?
+A picker of files, with control close at hand,
+You summon it forth with a call to the sky,
+And directories bow to your will with a sigh.
+
+The cache and the files, the external storage too,
+All paths are revealed and made clear unto you,
+Create and delete, copy, move, and restore,
+The operations are endless, there's always more and more.
+
+Share files with others through a single command,
+Save documents swiftly, oh wouldn't that be grand?
+Thumbnails for images, for videos, for all,
+No matter the format, you'll have them in thrall.
+
+The streams that flow gently through directories deep,
+Reading the files while your processor sleeps,
+Background actions that work in the night,
+With isolates and WorkManager holding them tight.
+
+Persisted permissions, they linger and stay,
+Remembered across every passing day,
+No fragile tokens that vanish at dawn,
+Your access endures when the night has withdrawn.
+
+And DocumentsProvider, a marvel so fine,
+Allows you to create one of your own design,
+Within your app's storage, a realm of your making,
+Where files and directories rise without breaking.
+
+### Canto III: The Picker's Dance
+
+Come gather around as the picker takes stage,
+A spectacle written on each glowing page,
+You call out for files in the formats you seek,
+PDF, DOC, DOCX—oh what functions they speak!
+
+"Pick files," you declare, and the system responds,
+With browsing windows that meet your demands,
+Extensions you list are the limits you set,
+The finest-grained control you could ever beget.
+
+But wait, there is more in this magical show,
+The visual media, through landscapes they flow,
+Images and videos, a stream without end,
+Pick five at a time, or let selections extend.
+
+Android Photo Picker, when systems support,
+Brings the selection to a glorious sort,
+On modern devices it rises with grace,
+A native experience, a beautiful face.
+
+### Canto IV: The DocumentFile's Quest
+
+A DocumentFile, you instantiate from URI,
+A path through the system, a technological query,
+From saved locations, from moments gone past,
+You resurrect access that was meant to last.
+
+List documents within, with mimeType as guide,
+Filter the chaos, bring order inside,
+All PDFs, or just documents of a specific type,
+The power to narrow down what you require.
+
+Copy and move, delete and create new,
+The DocumentFile makes all this come true,
+It reads the contents in streams that flow free,
+A buffered approach to what needs to be.
+
+From content:// URIs, those Android pathways,
+Through files and folders in various gateways,
+The DocumentFile navigates, steady and sure,
+A hero of code, of that you are sure.
+
+Operations that linger in background threads,
+While your main UI thread rests its head,
+No frozen screens, no delays that offend,
+Your users experience a smooth, seamless blend.
+
+### Canto V: The Legacy and the Dawn
+
+So here stands DocMan, a beacon so bright,
+A guide through the darkness of Storage's great might,
+No complexity where there was once dark confusion,
+No more shall you suffer that framework's delusion.
+
+From Android 5 onwards, through versions ahead,
+API compatibility, forever well-fed,
+And as the years pass and new systems arrive,
+This plugin shall grow and forever survive.
+
+The pub.dev repository holds its proud chest,
+A package that stands far above all the rest,
+With stars and with downloads, with praise without end,
+A tool and a treasure, a developer's best friend.
+
+O future developers, who'll come after us,
+Who'll face the same storage requirements and fuss,
+You'll find DocMan waiting, with features so grand,
+A helping, a guiding, a technical hand.
+
+The code shall evolve, and the features shall grow,
+New versions shall come with each passing flow,
+But the spirit endures—simplification made true,
+Making complex the simple, the old bright and new.
+
+So raise up your cups in a toast to this day,
+To plugin and code that have shown us the way,
+DocMan eternal, may you forever stand tall,
+The greatest of managers, the best of them all!
+
+---
+
+*~~ fin ~~*

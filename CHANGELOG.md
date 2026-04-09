@@ -1,5 +1,7 @@
 ## 1.2.0
 
+things
+
 * New Feature: Added method `all()` for `DocMan.dir` helper.
   It's a simple way to get all app directories in one call as map.
 
